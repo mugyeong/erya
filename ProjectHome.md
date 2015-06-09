@@ -1,0 +1,1 @@
+This project is for android phones. It enables the android phones to read a text (via camera) and display it's meaning (monolingual) on screen. It aims to lookup either from installed dictionary or from web dictionary.
